@@ -4,10 +4,7 @@
 metro-scraper is a Python-based tool designed to aid in your morning commute by providing real-time updates and information about metro schedules, delays, and other relevant data.
 
 ## Features
-- Real-time metro schedule updates
-- Delay notifications
-- Route planning
-- Integration with various metro systems
+- Real-time metro schedule ...
 
 ## Installation
 1. Clone the repository:
@@ -41,4 +38,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, please contact me.
