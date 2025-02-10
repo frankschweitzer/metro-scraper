@@ -4,7 +4,7 @@
 metro-scraper is a Python-based tool designed to aid in your morning commute by providing real-time updates and information about metro schedules, delays, and other relevant data.
 
 ## Features
-- Real-time metro schedule ...
+- Real-time metro schedule using this API: https://developer.wmata.com/apis
 
 ## Installation
 1. Clone the repository:
